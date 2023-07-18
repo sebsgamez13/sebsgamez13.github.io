@@ -1,0 +1,84 @@
+*{font-family: 'Pangolin', cursive;}
+
+
+.bg-ADSO{
+    background: #ffd000;
+}
+#Nosotros{
+    width: 100%;
+    position: relative;
+    padding:120px 0;
+}
+#Nosotros h2{
+    color:#ffd000;
+    font-size: 40px;
+}
+#Servicios{
+    padding: 30px 0 100px;
+    width: 100%;
+    position: relative;
+}
+#Servicios h2{
+    color: #ffd000;
+}
+.card-servicios{
+    border: 1px solid #000000;
+    max-width: 320px;
+    margin: 10px auto;
+    padding: 0;
+    border-radius: 10px;
+}
+.card-servicios img{
+    border-radius: 10px 10px 0 0;
+}
+.card-servicios h3{
+    padding: 10px;
+    color: #f19114;
+}
+.card-servicios p{
+    padding: 10px;
+    color: #000000;
+}
+
+#preguntas{
+    padding: 30px 0 100px;
+    width: 100%;
+    position: relative;
+    margin-bottom: 50px;
+}
+.container h2{
+    color:#ffd000;
+    font-size: 40px;
+}
+.row{
+    margin-top: 40px;
+}
+.cad-preguntas img{
+    border-radius: 10px 10px 0 0;
+}
+.row.card-redes{
+    padding: 5px;
+}
+.row.card-redes p{
+    padding: 5px;
+    top: 10px;
+    max-width: 10px;
+}
+#redes{
+    width: 100%;
+    position: relative;
+    padding: 5px;
+    font-size: 30px;
+}
+
+.creadores{
+    display: flex;
+    background: #ffd000;
+    width: 100%;
+    position: relative;
+    
+}
+footer{
+    background: #ffd000;
+}
+
